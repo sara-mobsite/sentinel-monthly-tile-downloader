@@ -10,7 +10,6 @@ This repo includes:
 
 - **Sentinel-1 notebook** for monthly scene selection and download
 - **Sentinel-2 notebook** for monthly best-scene selection using tile coverage and cloud filtering
-- Export of clipped imagery, metadata, and summary tables
 
 ## Features
 
